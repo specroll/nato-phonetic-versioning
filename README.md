@@ -1,1 +1,0 @@
-# nato-phonetic-versioning
